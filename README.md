@@ -19,3 +19,6 @@ OBJECTIVE:
 
 
 This is simple BMI Calculating and Tracking app made using jetpack compose and kotlin rooms.
+
+![image](https://github.com/user-attachments/assets/710197a3-912f-472d-81d7-708ab69e4bc7)
+![image](https://github.com/user-attachments/assets/f47acaad-f679-4305-a3b8-fc5c948ec7ca)
